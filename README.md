@@ -66,6 +66,8 @@ print("Selesai")
 ```
 
 Setelah perulangan selesai, baris ini menampilkan pesan ```"Selesai"``` untuk menandakan bahwa program telah selesai menjalankan seluruh instruksi.
+![image](https://github.com/user-attachments/assets/302df5e9-d96e-4e6b-92ed-076439505513)
+
 
 
 
@@ -130,6 +132,8 @@ print("Laba bulan ke-1 sebesar:", laba[0])
 Baris-baris ini mencetak laba untuk masing-masing bulan, dan total laba.
 
 Hasil program tersebut:
+![LATIHAN 2](https://github.com/user-attachments/assets/5626f69d-b475-4480-a7b7-b59602816b81)
+
 
 
 # LATIHAN 3
@@ -211,3 +215,5 @@ else:
 Jika input pengguna tidak sesuai dengan opsi yang ada (1 atau 2), maka program akan menampilkan pesan Pilihan tidak valid!
 
 HASIL TERSEBUT ! 
+![LATIHAN 3](https://github.com/user-attachments/assets/e4655641-9f2e-4411-a33a-87e0b2f876ae)
+
